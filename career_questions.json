@@ -1,0 +1,1016 @@
+{
+  "main": {
+    "q1": {
+      "question": "When you come across something new, what’s your first instinct?",
+      "options": {
+        "a": {
+          "text": "Prefer to explore and understand how things work",
+          "weights": {
+            "Science": 2,
+            "Engineering": 1
+          }
+        },
+        "b": {
+          "text": "Like to create or improve things practically",
+          "weights": {
+            "Engineering": 3,
+            "Science": 1
+          }
+        },
+        "c": {
+          "text": "Care about how things impact people’s well-being",
+          "weights": {
+            "Medical": 2,
+            "Arts": 1
+          }
+        },
+        "d": {
+          "text": "Enjoy expressing ideas creatively",
+          "weights": {
+            "Arts": 2
+          }
+        },
+        "e": {
+          "text": "Interested in practical uses and opportunities",
+          "weights": {
+            "Commerce": 2,
+            "Engineering": 1
+          }
+        }
+      }
+    },
+    "q2": {
+      "question": "You’re given a free weekend. What do you spend it on most naturally?",
+      "options": {
+        "a": {
+          "text": "Spend time learning about new things or the environment",
+          "weights": {
+            "Science": 2,
+            "Arts": 1
+          }
+        },
+        "b": {
+          "text": "Prefer hands-on activities and problem-solving",
+          "weights": {
+            "Engineering": 2,
+            "Medical": 1
+          }
+        },
+        "c": {
+          "text": "Care about how things impact people’s well-being",
+          "weights": {
+            "Medical": 2
+          }
+        },
+        "d": {
+          "text": "Like to be involved in creative activities",
+          "weights": {
+            "Arts": 3
+          }
+        },
+        "e": {
+          "text": "Interested in managing resources or projects",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    },
+    "q3": {
+      "question": "When facing a tricky problem, how do you approach it?",
+      "options": {
+        "a": {
+          "text": "Break it down into scientific principles",
+          "weights": {
+            "Science": 3,
+            "Engineering": 1
+          }
+        },
+        "b": {
+          "text": "Try to engineer a practical solution",
+          "weights": {
+            "Engineering": 2,
+            "Commerce": 1
+          }
+        },
+        "c": {
+          "text": "Think about the human side and health impact",
+          "weights": {
+            "Medical": 3
+          }
+        },
+        "d": {
+          "text": "Look for a creative or artistic way to represent it",
+          "weights": {
+            "Arts": 2,
+            "Science": 1
+          }
+        },
+        "e": {
+          "text": "Check how it could be monetized",
+          "weights": {
+            "Commerce": 2,
+            "Arts": 1
+          }
+        }
+      }
+    },
+    "q4": {
+      "question": "In a group project, people usually look to you for…",
+      "options": {
+        "a": {
+          "text": "Analyzing and explaining the science behind things",
+          "weights": {
+            "Science": 2,
+            "Engineering": 2
+          }
+        },
+        "b": {
+          "text": "Fixing or building practical parts",
+          "weights": {
+            "Engineering": 3
+          }
+        },
+        "c": {
+          "text": "Making sure the group works smoothly and people are cared for",
+          "weights": {
+            "Medical": 2,
+            "Science": 1
+          }
+        },
+        "d": {
+          "text": "Creative input like design, words, or music",
+          "weights": {
+            "Arts": 2,
+            "Commerce": 1
+          }
+        },
+        "e": {
+          "text": "Handling the finances and planning",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    },
+    "q5": {
+      "question": "What excites you most?",
+      "options": {
+        "a": {
+          "text": "Discoveries about the universe, nature, or science",
+          "weights": {
+            "Science": 3
+          }
+        },
+        "b": {
+          "text": "Inventing or building technology",
+          "weights": {
+            "Engineering": 3
+          }
+        },
+        "c": {
+          "text": "Helping people recover or stay healthy",
+          "weights": {
+            "Medical": 3
+          }
+        },
+        "d": {
+          "text": "Creating art, performance, or expression",
+          "weights": {
+            "Arts": 3
+          }
+        },
+        "e": {
+          "text": "Managing money or creating businesses",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    },
+    "q6": {
+      "question": "If you were given a large challenge, how would you handle it?",
+      "options": {
+        "a": {
+          "text": "Analyze it step by step like a scientist",
+          "weights": {
+            "Science": 2,
+            "Medical": 1
+          }
+        },
+        "b": {
+          "text": "Engineer a system or tool to solve it",
+          "weights": {
+            "Engineering": 3
+          }
+        },
+        "c": {
+          "text": "Work with people and keep their health in mind",
+          "weights": {
+            "Medical": 2,
+            "Commerce": 1
+          }
+        },
+        "d": {
+          "text": "Create or design something expressive around it",
+          "weights": {
+            "Arts": 2
+          }
+        },
+        "e": {
+          "text": "Organize finances and resources",
+          "weights": {
+            "Commerce": 2,
+            "Engineering": 1
+          }
+        }
+      }
+    },
+    "q7": {
+      "question": "Which recognition excites you the most?",
+      "options": {
+        "a": {
+          "text": "Being respected as a scientist",
+          "weights": {
+            "Science": 3
+          }
+        },
+        "b": {
+          "text": "Recognition for building technology",
+          "weights": {
+            "Engineering": 2,
+            "Commerce": 1
+          }
+        },
+        "c": {
+          "text": "Gratitude for saving lives or helping health",
+          "weights": {
+            "Medical": 2
+          }
+        },
+        "d": {
+          "text": "Fame for artistic or creative work",
+          "weights": {
+            "Arts": 3
+          }
+        },
+        "e": {
+          "text": "Success in business or trade",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    },
+    "q8": {
+      "question": "When learning, what feels easiest for you?",
+      "options": {
+        "a": {
+          "text": "Concepts and theories about science",
+          "weights": {
+            "Science": 3
+          }
+        },
+        "b": {
+          "text": "Building or applying technical skills",
+          "weights": {
+            "Engineering": 2,
+            "Arts": 1
+          }
+        },
+        "c": {
+          "text": "Understanding health and people",
+          "weights": {
+            "Medical": 2
+          }
+        },
+        "d": {
+          "text": "Learning by creating or expressing",
+          "weights": {
+            "Arts": 2,
+            "Science": 1
+          }
+        },
+        "e": {
+          "text": "Learning about business or money",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    },
+    "q9": {
+      "question": "Which activity sounds fun?",
+      "options": {
+        "a": {
+          "text": "Doing an experiment or science quiz",
+          "weights": {
+            "Science": 2,
+            "Engineering": 1
+          }
+        },
+        "b": {
+          "text": "Building a model or fixing gadgets",
+          "weights": {
+            "Engineering": 3
+          }
+        },
+        "c": {
+          "text": "Helping someone with health advice",
+          "weights": {
+            "Medical": 2
+          }
+        },
+        "d": {
+          "text": "Performing, drawing, or writing",
+          "weights": {
+            "Arts": 3
+          }
+        },
+        "e": {
+          "text": "Trading, managing money, or business games",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    },
+    "q10": {
+      "question": "If you had to pick a long-term project, what would it involve?",
+      "options": {
+        "a": {
+          "text": "Exploring new scientific discoveries",
+          "weights": {
+            "Science": 3
+          }
+        },
+        "b": {
+          "text": "Inventing or improving technology",
+          "weights": {
+            "Engineering": 2,
+            "Science": 1
+          }
+        },
+        "c": {
+          "text": "Working in health or medicine",
+          "weights": {
+            "Medical": 2
+          }
+        },
+        "d": {
+          "text": "Creating something artistic or cultural",
+          "weights": {
+            "Arts": 2
+          }
+        },
+        "e": {
+          "text": "Running a business or financial venture",
+          "weights": {
+            "Commerce": 3
+          }
+        }
+      }
+    }
+  },
+  "sub": {
+    "Medical": {
+      "q1": {
+        "question": "When working in a team, what role feels most natural?",
+        "options": {
+          "a": {
+            "text": "Taking charge when quick, tough decisions are needed",
+            "weights": {
+              "Doctor": 2,
+              "Research": 1
+            }
+          },
+          "b": {
+            "text": "Making sure everyone feels supported and cared for",
+            "weights": {
+              "Nursing": 2,
+              "Nutrition": 1
+            }
+          },
+          "c": {
+            "text": "Handling the tools, equipment, or technical parts",
+            "weights": {
+              "Paramedical": 2
+            }
+          },
+          "d": {
+            "text": "Sharing habits or advice that keep people healthier",
+            "weights": {
+              "Nutritionist": 2,
+              "Influencer": 1
+            }
+          }
+        }
+      },
+      "q2": {
+        "question": "If you had a chance to study one topic deeply, what would it be?",
+        "options": {
+          "a": {
+            "text": "How the human body works and responds under stress",
+            "weights": {
+              "Doctor": 2,
+              "Research": 2
+            }
+          },
+          "b": {
+            "text": "How lifestyle choices affect health",
+            "weights": {
+              "Nursing": 1,
+              "Nutritionist": 2
+            }
+          },
+          "c": {
+            "text": "How machines and lab tests reveal hidden details",
+            "weights": {
+              "Paramedical": 3
+            }
+          },
+          "d": {
+            "text": "How to spread awareness and change habits",
+            "weights": {
+              "Influencer": 2,
+              "Nutritionist": 1
+            }
+          }
+        }
+      },
+      "q3": {
+        "question": "In a crisis, what do you usually do?",
+        "options": {
+          "a": {
+            "text": "Act quickly, even under pressure",
+            "weights": {
+              "Doctor": 3
+            }
+          },
+          "b": {
+            "text": "Stay calm and comfort others",
+            "weights": {
+              "Nursing": 2,
+              "Psychology": 1
+            }
+          },
+          "c": {
+            "text": "Gather data before making a call",
+            "weights": {
+              "Paramedical": 2,
+              "Research": 1
+            }
+          },
+          "d": {
+            "text": "Share knowledge so others avoid mistakes",
+            "weights": {
+              "Influencer": 2,
+              "Nutritionist": 1
+            }
+          }
+        }
+      },
+      "q4": {
+        "question": "Which type of recognition excites you the most?",
+        "options": {
+          "a": {
+            "text": "Respect for solving life-threatening problems",
+            "weights": {
+              "Doctor": 3
+            }
+          },
+          "b": {
+            "text": "Gratitude for being there when people needed support",
+            "weights": {
+              "Nursing": 3
+            }
+          },
+          "c": {
+            "text": "Praise for uncovering hidden causes others missed",
+            "weights": {
+              "Paramedical": 3
+            }
+          },
+          "d": {
+            "text": "Popularity for improving lifestyle choices",
+            "weights": {
+              "Nutritionist": 2,
+              "Influencer": 2
+            }
+          }
+        }
+      }
+    },
+    "Science": {
+      "q1": {
+        "question": "When you’re curious about something, what’s your instinct?",
+        "options": {
+          "a": {
+            "text": "Test theories with experiments or formulas",
+            "weights": {
+              "Physics": 2,
+              "Chemistry": 1
+            }
+          },
+          "b": {
+            "text": "Look at nature and living systems",
+            "weights": {
+              "Biology": 2,
+              "EnvSci": 1
+            }
+          },
+          "c": {
+            "text": "Mix, analyze, or test substances",
+            "weights": {
+              "Chemistry": 2,
+              "Physics": 1
+            }
+          },
+          "d": {
+            "text": "Explain things to others in simple terms",
+            "weights": {
+              "Communicator": 3
+            }
+          }
+        }
+      },
+      "q2": {
+        "question": "If you had endless resources, what would you study?",
+        "options": {
+          "a": {
+            "text": "The universe, energy, or matter",
+            "weights": {
+              "Physics": 3
+            }
+          },
+          "b": {
+            "text": "Living organisms, DNA, or medicine",
+            "weights": {
+              "Biology": 3
+            }
+          },
+          "c": {
+            "text": "Reactions and compounds",
+            "weights": {
+              "Chemistry": 3
+            }
+          },
+          "d": {
+            "text": "Environmental balance and awareness",
+            "weights": {
+              "EnvSci": 2,
+              "Communicator": 1
+            }
+          }
+        }
+      },
+      "q3": {
+        "question": "In a group, what role do you take?",
+        "options": {
+          "a": {
+            "text": "Solve with math and logic",
+            "weights": {
+              "Physics": 2
+            }
+          },
+          "b": {
+            "text": "Focus on biology or living systems",
+            "weights": {
+              "Biology": 2
+            }
+          },
+          "c": {
+            "text": "Experiment with chemicals or materials",
+            "weights": {
+              "Chemistry": 2
+            }
+          },
+          "d": {
+            "text": "Discuss environmental or social angles",
+            "weights": {
+              "EnvSci": 2,
+              "Communicator": 2
+            }
+          }
+        }
+      },
+      "q4": {
+        "question": "What excites you about science?",
+        "options": {
+          "a": {
+            "text": "The laws that explain how the universe works",
+            "weights": {
+              "Physics": 3
+            }
+          },
+          "b": {
+            "text": "Discovering new cures or species",
+            "weights": {
+              "Biology": 3
+            }
+          },
+          "c": {
+            "text": "Solving chemical mysteries",
+            "weights": {
+              "Chemistry": 3
+            }
+          },
+          "d": {
+            "text": "Applying science to society and nature",
+            "weights": {
+              "EnvSci": 2,
+              "Communicator": 2
+            }
+          }
+        }
+      }
+    },
+    "Engineering": {
+      "q1": {
+        "question": "When solving a problem, what’s your instinct?",
+        "options": {
+          "a": {
+            "text": "Write code or simulate possible solutions",
+            "weights": {
+              "Software": 2,
+              "AI": 1
+            }
+          },
+          "b": {
+            "text": "Sketch mechanical parts and test",
+            "weights": {
+              "Mechanical": 2,
+              "Robotics": 1
+            }
+          },
+          "c": {
+            "text": "Think of how it applies to cities/infrastructure",
+            "weights": {
+              "CivilArch": 2
+            }
+          },
+          "d": {
+            "text": "Try breaking it to see weaknesses",
+            "weights": {
+              "Hacker": 2,
+              "GameDev": 1
+            }
+          }
+        }
+      },
+      "q2": {
+        "question": "If you had unlimited tools, what would you create?",
+        "options": {
+          "a": {
+            "text": "A robot that helps in daily life",
+            "weights": {
+              "Robotics": 3,
+              "Mechanical": 2
+            }
+          },
+          "b": {
+            "text": "A VR game world",
+            "weights": {
+              "GameDev": 3
+            }
+          },
+          "c": {
+            "text": "A bridge or smart building",
+            "weights": {
+              "CivilArch": 3
+            }
+          },
+          "d": {
+            "text": "An app that solves daily problems",
+            "weights": {
+              "Software": 3,
+              "AI": 2
+            }
+          }
+        }
+      },
+      "q3": {
+        "question": "In a group setting, what role feels most natural?",
+        "options": {
+          "a": {
+            "text": "Debugging/testing details",
+            "weights": {
+              "Software": 2,
+              "Electrical": 2
+            }
+          },
+          "b": {
+            "text": "Coming up with fresh ideas for tech",
+            "weights": {
+              "GameDev": 2,
+              "Hacker": 1
+            }
+          },
+          "c": {
+            "text": "Handling machines or prototypes",
+            "weights": {
+              "Mechanical": 2,
+              "Robotics": 2
+            }
+          },
+          "d": {
+            "text": "Planning layout/designs",
+            "weights": {
+              "CivilArch": 3
+            }
+          }
+        }
+      },
+      "q4": {
+        "question": "What recognition excites you most?",
+        "options": {
+          "a": {
+            "text": "Launching an app that goes viral",
+            "weights": {
+              "Software": 3,
+              "AI": 2
+            }
+          },
+          "b": {
+            "text": "Inventing a useful machine",
+            "weights": {
+              "Mechanical": 3
+            }
+          },
+          "c": {
+            "text": "Designing a landmark project",
+            "weights": {
+              "CivilArch": 3
+            }
+          },
+          "d": {
+            "text": "Being known for edgy tech content",
+            "weights": {
+              "Hacker": 2,
+              "GameDev": 2,
+              "Influencer": 1
+            }
+          }
+        }
+      }
+    },
+    "Arts": {
+      "q1": {
+        "question": "What’s your way of expressing yourself?",
+        "options": {
+          "a": {
+            "text": "Explaining ideas clearly to others",
+            "weights": {
+              "Writer": 2,
+              "Journalist": 1
+            }
+          },
+          "b": {
+            "text": "Performing or entertaining",
+            "weights": {
+              "Performer": 3
+            }
+          },
+          "c": {
+            "text": "Listening and guiding others",
+            "weights": {
+              "Psychologist": 2,
+              "SocialWorker": 1
+            }
+          },
+          "d": {
+            "text": "Sharing fun or creative content",
+            "weights": {
+              "Influencer": 2,
+              "Podcaster": 1
+            }
+          }
+        }
+      },
+      "q2": {
+        "question": "If you had a stage, how would you use it?",
+        "options": {
+          "a": {
+            "text": "Inspire people to think differently",
+            "weights": {
+              "Writer": 2,
+              "Psychologist": 1
+            }
+          },
+          "b": {
+            "text": "Showcase art/music/film",
+            "weights": {
+              "Artist": 3,
+              "Filmmaker": 2
+            }
+          },
+          "c": {
+            "text": "Lead a campaign for awareness",
+            "weights": {
+              "SocialWorker": 2,
+              "Psychologist": 1
+            }
+          },
+          "d": {
+            "text": "Make content that connects with millions",
+            "weights": {
+              "Influencer": 3,
+              "Streamer": 2
+            }
+          }
+        }
+      },
+      "q3": {
+        "question": "In conversations, people often notice you for…",
+        "options": {
+          "a": {
+            "text": "The clarity of your words",
+            "weights": {
+              "Writer": 2,
+              "Journalist": 2
+            }
+          },
+          "b": {
+            "text": "Your creativity and artistic ideas",
+            "weights": {
+              "Artist": 3
+            }
+          },
+          "c": {
+            "text": "Your empathy and advice",
+            "weights": {
+              "Psychologist": 3
+            }
+          },
+          "d": {
+            "text": "Your energy and humor",
+            "weights": {
+              "Influencer": 2,
+              "Performer": 1
+            }
+          }
+        }
+      },
+      "q4": {
+        "question": "Which recognition excites you most?",
+        "options": {
+          "a": {
+            "text": "Winning a prize for writing",
+            "weights": {
+              "Writer": 3
+            }
+          },
+          "b": {
+            "text": "Global fame for an artistic creation",
+            "weights": {
+              "Artist": 3
+            }
+          },
+          "c": {
+            "text": "Respect for helping people improve their lives",
+            "weights": {
+              "Psychologist": 3,
+              "SocialWorker": 1
+            }
+          },
+          "d": {
+            "text": "Popularity for online presence",
+            "weights": {
+              "Influencer": 3,
+              "Streamer": 2
+            }
+          }
+        }
+      }
+    },
+    "Commerce": {
+      "q1": {
+        "question": "When handling resources, what excites you most?",
+        "options": {
+          "a": {
+            "text": "Predicting risks and future trends",
+            "weights": {
+              "Analyst": 2,
+              "Economist": 2
+            }
+          },
+          "b": {
+            "text": "Keeping everything balanced and accounted",
+            "weights": {
+              "Accountant": 3
+            }
+          },
+          "c": {
+            "text": "Promoting and pitching ideas",
+            "weights": {
+              "Entrepreneur": 2,
+              "Marketer": 1
+            }
+          },
+          "d": {
+            "text": "Organizing people and plans",
+            "weights": {
+              "BusinessAdmin": 3
+            }
+          }
+        }
+      },
+      "q2": {
+        "question": "If given 10 lakhs, how would you use it?",
+        "options": {
+          "a": {
+            "text": "Start a business with a team",
+            "weights": {
+              "Entrepreneur": 3,
+              "Manager": 2
+            }
+          },
+          "b": {
+            "text": "Save/invest safely",
+            "weights": {
+              "Accountant": 3,
+              "Banker": 2
+            }
+          },
+          "c": {
+            "text": "Market a product creatively",
+            "weights": {
+              "Marketer": 2,
+              "Influencer": 2
+            }
+          },
+          "d": {
+            "text": "Trade stocks/crypto smartly",
+            "weights": {
+              "Trader": 3,
+              "Analyst": 2
+            }
+          }
+        }
+      },
+      "q3": {
+        "question": "In a group project, what role feels natural?",
+        "options": {
+          "a": {
+            "text": "Analyzing data for decisions",
+            "weights": {
+              "Analyst": 2,
+              "Economist": 2
+            }
+          },
+          "b": {
+            "text": "Coordinating and leading the team",
+            "weights": {
+              "Manager": 2,
+              "BusinessAdmin": 2
+            }
+          },
+          "c": {
+            "text": "Handling the money/resources",
+            "weights": {
+              "Accountant": 2
+            }
+          },
+          "d": {
+            "text": "Spreading the idea to others",
+            "weights": {
+              "Influencer": 2,
+              "Entrepreneur": 1
+            }
+          }
+        }
+      },
+      "q4": {
+        "question": "What recognition excites you most?",
+        "options": {
+          "a": {
+            "text": "Known as a market genius",
+            "weights": {
+              "Trader": 3,
+              "Analyst": 2
+            }
+          },
+          "b": {
+            "text": "CEO admired for leadership",
+            "weights": {
+              "BusinessLeader": 3
+            }
+          },
+          "c": {
+            "text": "Trusted for managing finances perfectly",
+            "weights": {
+              "Accountant": 3
+            }
+          },
+          "d": {
+            "text": "Popularity for smart content or hacks",
+            "weights": {
+              "Influencer": 3,
+              "Entrepreneur": 2
+            }
+          }
+        }
+      }
+    }
+  }
+}
